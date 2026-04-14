@@ -48,11 +48,11 @@ a faster interface between you and everything you do.
 
 ---
 
-## Repositories
+## Links
 
-- **Volt** — core application  
-- **volt-extensions** — extension ecosystem  
-- **VoltLaunchr-web** — website and distribution  
+- Website: https://voltlaunchr.com
+- Core repository: https://github.com/VoltLaunchr/Volt  
+- Extensions ecosystem: https://github.com/VoltLaunchr/volt-extensions  
 
 ---
 
